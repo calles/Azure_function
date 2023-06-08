@@ -4,8 +4,10 @@ Azure_function_example
 * Serverless = Sin servidor.
 * Trigger = Disparadores o desencadenadores.
 
-module.exports = async function (context, req) {
+Código
 
+    module.exports = async function (context, req) {
+    
     context.log("Iniciando la función...");
 
     if(req.query.ciudad){
