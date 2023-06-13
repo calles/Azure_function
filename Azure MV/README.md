@@ -10,7 +10,7 @@ o
 ```
 az vm list -o table
 ```
-o
+Solo para PowerShell
 ```
 Get-AzVM
 ```
