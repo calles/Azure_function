@@ -2,7 +2,7 @@
 
 ## CLI de Azure
 
-Listar MV
+### Listar MV
 ```
 az vm list
 ```
@@ -14,13 +14,13 @@ Solo para PowerShell
 ```
 Get-AzVM
 ```
-Crear un grupo de recursos
+### Crear un grupo de recursos
 ```
 az group create \
     --name VirtualMachineDemo \
     --location eastus2
 ```
-Crear una dirección IP pública
+### Crear una dirección IP pública
 
 ```
 az network public-ip create \
@@ -30,7 +30,7 @@ az network public-ip create \
     --sku Standard \
     --zone 1 2 3
 ```
-Crear una máquina virtual
+### Crear una máquina virtual
 ```
 az vm create \
     --name VMWindowsDemo \
@@ -40,7 +40,7 @@ az vm create \
     --image MicrosoftWindowsServer:WindowsServer:2019-Datacenter:latest \
     --admin-username rodrigo.zaldana
 ```
-Limpieza de recursos
+### Limpieza de recursos
 ```
 az group delete --name VirtualMachineDemo --yes
 ```
