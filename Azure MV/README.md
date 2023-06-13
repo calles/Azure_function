@@ -10,6 +10,10 @@ o
 ```
 az vm list -o table
 ```
+o
+```
+Get-AzVM
+```
 Crear un grupo de recursos
 ```
 az group create \
