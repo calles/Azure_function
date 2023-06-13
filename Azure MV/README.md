@@ -34,5 +34,5 @@ az vm create \
 ```
 Limpieza de recursos
 ```
-az group delete --name myResourceGroup --yes
+az group delete --name VirtualMachineDemo --yes
 ```
