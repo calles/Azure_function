@@ -32,4 +32,7 @@ az vm create \
     --image MicrosoftWindowsServer:WindowsServer:2019-Datacenter:latest \
     --admin-username rodrigo.zaldana
 ```
-
+Limpieza de recursos
+```
+az group delete --name myResourceGroup --yes
+```
