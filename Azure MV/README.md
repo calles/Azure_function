@@ -6,6 +6,10 @@ Listar MV
 ```
 az vm list
 ```
+o
+```
+az vm list -o table
+```
 Crear un grupo de recursos
 ```
 az group create \
