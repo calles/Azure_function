@@ -12,3 +12,6 @@ Definitions
 
 # INSTALAR CLI AZURE EN WINDOWS
 [Instalador CLI Azure para Windows](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
+
+```
+az login
