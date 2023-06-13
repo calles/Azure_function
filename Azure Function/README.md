@@ -1,6 +1,10 @@
 # Azure_function
 Azure_function_example
 
+```    
+https://faas-example.azurewebsites.net/api/HttpTrigger1?code=TdP6o_daU9Rt7Io8G0hDVXz-8BKOUAbPXp64miM1wFKsAzFuZYpHNA==&ciudad=mexico
+```
+
 Código
 
     module.exports = async function (context, req) {
@@ -39,7 +43,4 @@ Código
         }
     
     };
-    
-    https://faas-example.azurewebsites.net/api/HttpTrigger1?code=TdP6o_daU9Rt7Io8G0hDVXz-8BKOUAbPXp64miM1wFKsAzFuZYpHNA==&ciudad=mexico
-
 
