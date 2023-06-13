@@ -8,7 +8,7 @@ Definitions
 * CLI = Interfaz de la línea de comandos
 
 # CáLCULADORA DE PRECIOS
-[📱](https://azure.microsoft.com/es-es/pricing/calculator)
+[Cálculadora de precios](https://azure.microsoft.com/es-es/pricing/calculator)
 
 # INSTALAR CLI AZURE EN WINDOWS
-[💻](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
+[Instalador CLI Azure para Windows](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
