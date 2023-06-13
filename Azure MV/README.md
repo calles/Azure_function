@@ -14,12 +14,14 @@ $ az group create \
 
 Crear una dirección IP pública
 
+```
 $ az network public-ip create \
     --resource-group VirtualMachineDemo \
     --name PublicIP2 \
     --version IPv4 \
     --sku Standard \
     --zone 1 2 3
+```
 
 Crear una máquina virtual
 
