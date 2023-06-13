@@ -1,6 +1,6 @@
 # Azure
 
-##Definitions
+## Definitions
 
 * Serverless = Sin servidor.
 * Trigger = Disparadores o desencadenadores.
