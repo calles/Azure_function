@@ -28,7 +28,7 @@ az vm create \
     --name VMWindowsDemo \
     --resource-group VirtualMachineDemo \
     --public-ip-address PublicIP2 \
-    --size Standar_DS1_v2 \
+    --size Standard_B1s \
     --image MicrosoftWindowsServer:WindowsServer:2019-Datacenter:latest \
     --admin-username rodrigo.zaldana
 ```
