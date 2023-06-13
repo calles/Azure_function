@@ -15,3 +15,5 @@ Definitions
 
 ```
 az login
+az logout
+```
