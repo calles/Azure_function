@@ -1,5 +1,6 @@
 # Azure_function
-Azure_function_example
+
+Example_Az_Func_local
 
 ```    
 func init FunctionAzureCLI
