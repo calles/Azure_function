@@ -16,7 +16,7 @@ dir
 ```
 func new
 ```
- // HTTP trigger
+- HTTP trigger
 
 ```
 dir
