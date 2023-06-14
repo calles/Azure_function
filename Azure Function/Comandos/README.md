@@ -16,6 +16,7 @@ dir
 ```
 func new
 ```
+HTTP trigger
 
 ```
 dir
