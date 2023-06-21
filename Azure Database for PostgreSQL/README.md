@@ -1,7 +1,5 @@
 # Azure  Database for PostgreSQL
 
-## CLI de Azure
-
 ```
 az login
 ```
